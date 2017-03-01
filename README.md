@@ -1,1 +1,1 @@
-# GroupProject1
+# MLB-Game-Planner
